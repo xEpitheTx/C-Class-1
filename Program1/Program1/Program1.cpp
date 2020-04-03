@@ -70,12 +70,5 @@ int main()
 		cout << "The expression that you entered is not valid.";
 	}
 
-	cout << "Enter first operand [0 - 100]: ";
-	cin >> operand1;
-	cout << "Enter an operator (+, -, *, / or %): ";
-	cin >> operator1;
-	cout << "Enter second operand [0 - 100]: ";
-	cin >> operand2;
-
 }
 
