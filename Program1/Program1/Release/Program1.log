@@ -1,0 +1,11 @@
+﻿  Program1.cpp
+C:\Users\thelo\source\repos\Program1\Program1\Program1.cpp(42,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\thelo\source\repos\Program1\Program1\Program1.cpp(47,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\thelo\source\repos\Program1\Program1\Program1.cpp(52,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\thelo\source\repos\Program1\Program1\Program1.cpp(62,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 21 functions ( 4.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Program1.vcxproj -> C:\Users\thelo\source\repos\Program1\Release\Program1.exe

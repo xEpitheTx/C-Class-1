@@ -69,6 +69,6 @@ int main()
 	{
 		cout << "The expression that you entered is not valid.";
 	}
-
+	return 0;
 }
 
